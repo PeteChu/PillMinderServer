@@ -1,0 +1,1 @@
+var cv = require('/usr/lib/node_modules/opencv4nodejs')
